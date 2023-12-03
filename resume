@@ -1,0 +1,9 @@
+under Projects
+Breast Cancer ML Research | AI Student Collective
+ - Gathered and cleaned a dataset of breast cancer data
+ - Trained 10 different models to determine optimal predictor of breast cancer
+ - Achieved F1 and AUC scores of 0.99+
+ - Used PyPlot to visualize ROC and Precision/Recall curves
+
+
+insert link to github page insert link
